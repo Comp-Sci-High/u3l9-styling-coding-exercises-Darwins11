@@ -4,3 +4,11 @@ body {
 }
 
 /* Add styling to replicate the model website */
+
+.blue img{
+    background-color:blue;
+}
+
+.green img{
+    background-color:green;
+}
